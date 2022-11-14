@@ -4,7 +4,7 @@ MyProfile
 - Auto Layout
 - UIkit
 
-<div align="center">
+<div align="center" margin-left="0" margin-right="0">
 <img width="200" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589404-23092e25-59ab-4373-bf7d-8d7f8d4f3127.png">
 <img width="200" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589415-a2a99234-2e1a-4e9d-87b2-8624a42323e4.png">
 <img width="200" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589424-e7436cdf-d602-4dcd-b6b8-3c9cbcadfa18.png">
