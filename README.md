@@ -5,11 +5,11 @@ MyProfile
 - UIkit
 
 <div align="center">
-<img width="100" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589404-23092e25-59ab-4373-bf7d-8d7f8d4f3127.png">
-<img width="100" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589415-a2a99234-2e1a-4e9d-87b2-8624a42323e4.png">
-<img width="100" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589424-e7436cdf-d602-4dcd-b6b8-3c9cbcadfa18.png">
-<img width="100" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589425-520f1a90-51b4-4eb8-9b85-bc6bd4e5f80a.png">
-<img width="100" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589429-d5ff4454-572d-4c6c-bce0-78254491d09c.png">
+<img width="150" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589404-23092e25-59ab-4373-bf7d-8d7f8d4f3127.png">
+<img width="150" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589415-a2a99234-2e1a-4e9d-87b2-8624a42323e4.png">
+<img width="150" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589424-e7436cdf-d602-4dcd-b6b8-3c9cbcadfa18.png">
+<img width="150" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589425-520f1a90-51b4-4eb8-9b85-bc6bd4e5f80a.png">
+<img width="150" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/201589429-d5ff4454-572d-4c6c-bce0-78254491d09c.png">
 </div>
 
 UpDown
