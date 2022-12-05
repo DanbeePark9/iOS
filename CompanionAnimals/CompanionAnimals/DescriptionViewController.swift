@@ -9,6 +9,7 @@ import UIKit
 
 class DescriptionViewController: UIViewController {
 
+    var animalInfo : AnimalInfo!
     
     @IBOutlet weak var animalImageView: UIImageView!
     @IBOutlet weak var nameLabel: UILabel!
@@ -16,8 +17,12 @@ class DescriptionViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-
+        
         // Do any additional setup after loading the view.
+        self.navigationItem.title = self.animalInfo.name
+        self.animalImageView.image = UIImage(named: self.animalInfo.imageName)
+        self.nameLabel.text = self.animalInfo.name
+        self.descriptionTextView.text = self.animalInfo.animalDescription
     }
     
 

@@ -48,7 +48,6 @@
 		B14258C2292374FC005FCEC3 = {
 			isa = PBXGroup;
 			children = (
-				B14258F0292525E8005FCEC3 /* AnimalInfo.swift */,
 				B14258CD292374FC005FCEC3 /* CompanionAnimals */,
 				B14258CC292374FC005FCEC3 /* Products */,
 			);
@@ -65,16 +64,17 @@
 		B14258CD292374FC005FCEC3 /* CompanionAnimals */ = {
 			isa = PBXGroup;
 			children = (
+				B14258D7292374FE005FCEC3 /* Assets.xcassets */,
 				B14258E729237531005FCEC3 /* Animals.xcassets */,
 				B14258E62923752F005FCEC3 /* Images.xcassets */,
+				B14258D4292374FC005FCEC3 /* Main.storyboard */,
+				B14258D9292374FE005FCEC3 /* LaunchScreen.storyboard */,
+				B14258F0292525E8005FCEC3 /* AnimalInfo.swift */,
 				B14258CE292374FC005FCEC3 /* AppDelegate.swift */,
 				B14258D0292374FC005FCEC3 /* SceneDelegate.swift */,
-				B14258D4292374FC005FCEC3 /* Main.storyboard */,
 				B14258E8292375AE005FCEC3 /* MainViewController.swift */,
 				B14258EA292375C9005FCEC3 /* DescriptionViewController.swift */,
 				B14258EC292375D1005FCEC3 /* MakerViewController.swift */,
-				B14258D7292374FE005FCEC3 /* Assets.xcassets */,
-				B14258D9292374FE005FCEC3 /* LaunchScreen.storyboard */,
 				B14258DC292374FE005FCEC3 /* Info.plist */,
 			);
 			path = CompanionAnimals;
