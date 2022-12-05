@@ -47,7 +47,7 @@ AnimalCompanion
 <img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541406-51360e12-d61b-49de-931b-cc79125de17c.png">
 <img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541431-37cafb5f-0afe-401b-8137-a6635d894006.png">
 <img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541445-66c7522f-99d2-444d-9a8f-008cadbf98ba.png">
-<img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541455-c966b76b-a481-4f3e-b53e-8faca94a67c6.png)">
+<img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541455-c966b76b-a481-4f3e-b53e-8faca94a67c6.png">
 <img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541462-86461f06-1bd0-4cc1-be84-38337de64855.png">
 <img width="300" alt="iPhone 14 Pro" src="https://user-images.githubusercontent.com/64319909/205541473-0901f70c-20e1-46b7-a07d-d063e201d83f.png">
 </div>
